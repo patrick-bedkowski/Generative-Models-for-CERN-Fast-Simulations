@@ -54,7 +54,8 @@ def sum_channels_parallel_(data):
             mask5[i, j] = pattern2[i % 2, j % 2]
 
     # Divide the mask into four equal rectangles
-    rows, cols = mask.shape
+    print(mask.shape)
+    _, rows, cols = mask.shape
     mid_row, mid_col = rows // 2, cols // 2
     mask1 = mask.copy()
     mask2 = mask.copy()
