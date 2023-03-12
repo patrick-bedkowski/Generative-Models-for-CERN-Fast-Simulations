@@ -38,7 +38,7 @@ def sum_channels_parallel_old2(data):
     return zip(ch1, ch2, ch3, ch4, ch5)
 
 
-def sum_channels_parallel_(data):
+def sum_channels_parallel(data):
     # Create a copy of the input array to use as the mask
     mask = np.zeros_like(data)
     mask5 = mask.copy()
@@ -54,7 +54,7 @@ def sum_channels_parallel_(data):
             mask5[i, j] = pattern2[i % 2, j % 2]
 
     # Divide the mask into four equal rectangles
-    print(mask.shape)
+
     _, rows, cols = mask.shape
     mid_row, mid_col = rows // 2, cols // 2
     mask1 = mask.copy()
