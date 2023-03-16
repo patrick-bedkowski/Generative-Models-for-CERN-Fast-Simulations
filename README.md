@@ -22,4 +22,4 @@ Use <a href="notebooks/data_handling.ipynb">data_handling.ipynb</a> to produce t
 
 ### GAN for proton data
 
-<img src="C:\Users\PB\Documents\GithubRepos\Generative-Models-for-CERN-Fast-Simulations\imgs\gan\image_at_epoch_0020.png">
+<img src="imgs\gan\image_at_epoch_0020.png">
