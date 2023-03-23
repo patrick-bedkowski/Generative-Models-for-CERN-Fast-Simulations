@@ -1,0 +1,139 @@
+
+100 [Total loss: 60.74] [Recon_loss: 57.62] [KL loss: 4.45]
+200 [Total loss: 53.14] [Recon_loss: 50.41] [KL loss: 3.90]
+300 [Total loss: 41.95] [Recon_loss: 39.75] [KL loss: 3.14]
+
+305/305 [==============================] - 2s 4ms/step
+ws mean 40.50 ch1 0.02 ch2 7.62 ch3 0.33 ch4 93.40 ch5 101.12 Time for epoch 1 is 23.69924521446228 sec
+400 [Total loss: 43.47] [Recon_loss: 41.37] [KL loss: 3.00]
+500 [Total loss: 46.36] [Recon_loss: 44.16] [KL loss: 3.15]
+600 [Total loss: 39.35] [Recon_loss: 37.43] [KL loss: 2.75]
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 39.90 ch1 0.02 ch2 7.82 ch3 0.33 ch4 91.76 ch5 99.58 Time for epoch 2 is 17.365792751312256 sec
+700 [Total loss: 40.52] [Recon_loss: 38.29] [KL loss: 3.18]
+800 [Total loss: 47.67] [Recon_loss: 45.61] [KL loss: 2.94]
+900 [Total loss: 46.31] [Recon_loss: 44.27] [KL loss: 2.91]
+305/305 [==============================] - 1s 4ms/step
+ws mean 38.41 ch1 0.02 ch2 7.67 ch3 0.33 ch4 88.17 ch5 95.85 Time for epoch 3 is 17.53217911720276 sec
+1000 [Total loss: 45.08] [Recon_loss: 43.31] [KL loss: 2.53]
+1100 [Total loss: 46.61] [Recon_loss: 44.65] [KL loss: 2.81]
+1200 [Total loss: 45.97] [Recon_loss: 43.91] [KL loss: 2.94]
+305/305 [==============================] - 1s 4ms/step
+ws mean 37.94 ch1 0.02 ch2 6.94 ch3 0.32 ch4 87.72 ch5 94.72 Time for epoch 4 is 17.264676570892334 sec
+1300 [Total loss: 46.49] [Recon_loss: 44.73] [KL loss: 2.51]
+1400 [Total loss: 44.64] [Recon_loss: 43.02] [KL loss: 2.31]
+1500 [Total loss: 34.02] [Recon_loss: 32.71] [KL loss: 1.87]
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 37.11 ch1 0.02 ch2 7.54 ch3 0.32 ch4 85.00 ch5 92.65 Time for epoch 5 is 17.65860342979431 sec
+1600 [Total loss: 37.01] [Recon_loss: 35.63] [KL loss: 1.98]
+1700 [Total loss: 49.48] [Recon_loss: 47.70] [KL loss: 2.55]
+1800 [Total loss: 39.75] [Recon_loss: 38.19] [KL loss: 2.23]
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 35.43 ch1 0.02 ch2 6.90 ch3 0.31 ch4 81.52 ch5 88.39 Time for epoch 6 is 19.960110902786255 sec
+1900 [Total loss: 36.57] [Recon_loss: 35.28] [KL loss: 1.84]
+2000 [Total loss: 47.07] [Recon_loss: 45.19] [KL loss: 2.68]
+2100 [Total loss: 44.46] [Recon_loss: 42.93] [KL loss: 2.20]
+
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+ws mean 30.01 ch1 0.01 ch2 5.61 ch3 0.28 ch4 69.31 ch5 74.82 Time for epoch 7 is 21.431309700012207 sec
+2200 [Total loss: 45.52] [Recon_loss: 43.77] [KL loss: 2.49]
+2300 [Total loss: 28.01] [Recon_loss: 27.19] [KL loss: 1.18]
+2400 [Total loss: 44.52] [Recon_loss: 43.06] [KL loss: 2.08]
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 35.77 ch1 0.02 ch2 8.00 ch3 0.34 ch4 81.21 ch5 89.29 Time for epoch 8 is 20.27073836326599 sec
+2500 [Total loss: 46.52] [Recon_loss: 45.09] [KL loss: 2.04]
+2600 [Total loss: 41.03] [Recon_loss: 39.67] [KL loss: 1.94]
+2700 [Total loss: 44.10] [Recon_loss: 42.87] [KL loss: 1.76]
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 34.18 ch1 0.02 ch2 7.34 ch3 0.31 ch4 77.89 ch5 85.32 Time for epoch 9 is 19.994781494140625 sec
+2800 [Total loss: 44.93] [Recon_loss: 43.63] [KL loss: 1.86]
+2900 [Total loss: 34.92] [Recon_loss: 33.91] [KL loss: 1.44]
+3000 [Total loss: 35.88] [Recon_loss: 34.76] [KL loss: 1.61]
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 33.75 ch1 0.02 ch2 6.65 ch3 0.31 ch4 77.50 ch5 84.29 Time for epoch 10 is 20.35299849510193 sec
+3100 [Total loss: 34.05] [Recon_loss: 33.10] [KL loss: 1.35]
+3200 [Total loss: 37.51] [Recon_loss: 36.56] [KL loss: 1.35]
+3300 [Total loss: 31.93] [Recon_loss: 31.02] [KL loss: 1.30]
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+ws mean 30.74 ch1 0.01 ch2 6.44 ch3 0.28 ch4 70.10 ch5 76.87 Time for epoch 11 is 22.879863023757935 sec
+3400 [Total loss: 41.82] [Recon_loss: 40.66] [KL loss: 1.65]
+3500 [Total loss: 43.02] [Recon_loss: 42.01] [KL loss: 1.44]
+3600 [Total loss: 45.41] [Recon_loss: 43.97] [KL loss: 2.06]
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+ws mean 28.94 ch1 0.02 ch2 6.32 ch3 0.26 ch4 65.80 ch5 72.32 Time for epoch 12 is 22.723432302474976 sec
+3700 [Total loss: 42.47] [Recon_loss: 41.14] [KL loss: 1.91]
+3800 [Total loss: 40.44] [Recon_loss: 39.32] [KL loss: 1.60]
+3900 [Total loss: 40.60] [Recon_loss: 39.53] [KL loss: 1.53]
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+ws mean 26.36 ch1 0.02 ch2 4.70 ch3 0.27 ch4 60.96 ch5 65.85 Time for epoch 13 is 22.939921140670776 sec
+4000 [Total loss: 39.39] [Recon_loss: 38.36] [KL loss: 1.47]
+4100 [Total loss: 43.29] [Recon_loss: 41.96] [KL loss: 1.89]
+4200 [Total loss: 46.46] [Recon_loss: 45.28] [KL loss: 1.69]
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+ws mean 30.73 ch1 0.02 ch2 7.21 ch3 0.26 ch4 69.39 ch5 76.80 Time for epoch 14 is 23.064736127853394 sec
+4300 [Total loss: 42.59] [Recon_loss: 41.47] [KL loss: 1.59]
+4400 [Total loss: 44.43] [Recon_loss: 43.35] [KL loss: 1.55]
+4500 [Total loss: 39.39] [Recon_loss: 38.27] [KL loss: 1.60]
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+ws mean 32.09 ch1 0.02 ch2 7.48 ch3 0.27 ch4 72.52 ch5 80.16 Time for epoch 15 is 22.892570734024048 sec
+4600 [Total loss: 43.48] [Recon_loss: 42.25] [KL loss: 1.77]
+4700 [Total loss: 39.54] [Recon_loss: 38.47] [KL loss: 1.53]
+4800 [Total loss: 27.07] [Recon_loss: 26.52] [KL loss: 0.78]
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 29.60 ch1 0.02 ch2 6.31 ch3 0.28 ch4 67.51 ch5 73.90 Time for epoch 16 is 25.84824228286743 sec
+4900 [Total loss: 41.16] [Recon_loss: 40.16] [KL loss: 1.44]
+5000 [Total loss: 38.09] [Recon_loss: 37.20] [KL loss: 1.27]
+5100 [Total loss: 43.00] [Recon_loss: 41.89] [KL loss: 1.59]
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 30.14 ch1 0.02 ch2 5.98 ch3 0.28 ch4 69.31 ch5 75.10 Time for epoch 17 is 25.982892990112305 sec
+5200 [Total loss: 34.82] [Recon_loss: 34.15] [KL loss: 0.97]
+5300 [Total loss: 42.44] [Recon_loss: 41.17] [KL loss: 1.82]
+5400 [Total loss: 44.84] [Recon_loss: 43.71] [KL loss: 1.61]
+
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 30.33 ch1 0.02 ch2 6.83 ch3 0.24 ch4 68.93 ch5 75.65 Time for epoch 18 is 25.659790992736816 sec
+5500 [Total loss: 47.64] [Recon_loss: 46.34] [KL loss: 1.86]
+5600 [Total loss: 38.21] [Recon_loss: 37.37] [KL loss: 1.20]
+5700 [Total loss: 38.74] [Recon_loss: 37.78] [KL loss: 1.38]
+
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+305/305 [==============================] - 1s 4ms/step
+ws mean 32.70 ch1 0.02 ch2 7.25 ch3 0.30 ch4 74.26 ch5 81.65 Time for epoch 19 is 25.90468120574951 sec
