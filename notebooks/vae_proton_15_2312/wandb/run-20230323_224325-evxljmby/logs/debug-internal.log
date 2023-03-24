@@ -487,3 +487,436 @@
 2023-03-23 22:50:28,652 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
 2023-03-23 22:50:28,652 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
 2023-03-23 22:50:29,239 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:31,590 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:50:33,240 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:36,858 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:50:37,241 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:41,242 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:41,860 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:50:43,243 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:43,652 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:50:43,652 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:50:45,244 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:46,880 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:50:47,245 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:49,245 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:51,246 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:51,790 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:50:51,791 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:50:51,791 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:50:51,792 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:50:52,246 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:50:52,792 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:50:53,247 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:50:58,225 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:50:58,624 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:50:58,652 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:50:58,652 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:50:59,249 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:03,250 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:03,554 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:07,251 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:08,570 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:09,252 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:11,252 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:13,253 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:13,570 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:13,652 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:51:13,652 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:51:15,254 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:17,255 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:18,607 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:19,255 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:20,385 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:51:20,386 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:51:20,386 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:51:20,387 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:51:21,256 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:51:21,256 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:23,257 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:24,388 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:27,258 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:28,624 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:51:28,652 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:51:28,652 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:51:29,926 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:31,259 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:35,187 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:35,260 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:37,261 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:39,261 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:40,449 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:41,262 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:43,263 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:43,652 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:51:43,652 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:51:45,263 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:45,609 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:47,264 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:48,479 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:51:48,480 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:51:48,481 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:51:48,481 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:51:49,265 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:51:49,265 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:51,265 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:51,482 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:55,266 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:51:56,740 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:51:58,625 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:51:58,652 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:51:58,652 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:51:59,268 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:02,082 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:03,269 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:05,269 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:07,128 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:07,270 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:09,271 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:11,272 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:12,133 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:13,273 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:13,718 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:52:13,718 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:52:15,273 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:16,829 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:52:16,918 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:52:16,918 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:52:16,921 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:52:17,274 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:52:17,921 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:19,275 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:23,276 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:23,599 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:27,277 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:28,625 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:52:28,626 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:28,662 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:52:28,662 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:52:31,278 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:33,279 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:34,563 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:35,280 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:37,281 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:39,281 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:39,717 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:41,282 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:43,283 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:43,662 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:52:43,662 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:52:44,874 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:45,186 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:52:45,187 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:52:45,187 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:52:45,187 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:52:45,284 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:52:45,284 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:47,284 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:50,719 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:51,285 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:55,286 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:52:56,009 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:52:58,626 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:52:58,670 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:52:58,670 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:52:59,287 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:01,031 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:03,289 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:05,289 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:06,043 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:07,290 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:09,291 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:11,058 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:11,291 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:13,292 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:13,525 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:53:13,527 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:53:13,527 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:53:13,528 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:53:13,663 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:53:13,663 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:53:14,292 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:53:15,293 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:16,786 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:19,294 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:21,996 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:23,295 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:27,200 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:27,296 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:28,627 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:53:28,663 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:53:28,664 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:53:29,297 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:31,298 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:32,217 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:33,298 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:35,299 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:37,244 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:37,300 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:39,300 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:41,250 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:53:41,251 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:53:41,252 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:53:41,252 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:53:41,301 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:53:41,301 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:42,253 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:43,301 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:43,663 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:53:43,664 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:53:47,303 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:47,318 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:51,304 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:52,452 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:55,305 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:53:57,495 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:53:58,629 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:53:58,663 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:53:58,664 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:53:59,306 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:01,307 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:02,522 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:03,307 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:05,308 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:07,309 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:07,561 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:09,194 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:54:09,195 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:54:09,195 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:54:09,196 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:54:09,309 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:54:09,309 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:11,310 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:13,006 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:13,310 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:13,663 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:54:13,664 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:54:18,175 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:19,312 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:23,313 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:23,342 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:27,314 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:28,628 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:54:28,628 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:28,796 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:54:28,797 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:54:29,315 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:31,315 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:33,316 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:34,272 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:35,317 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:37,183 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:54:37,184 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:54:37,184 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:54:37,184 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:54:37,317 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:54:37,318 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:39,318 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:39,807 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:41,318 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:43,669 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:54:43,669 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:54:44,971 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:45,320 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:50,119 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:51,321 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:55,122 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:54:55,322 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:57,324 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:54:58,628 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:54:58,669 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:54:58,669 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:54:59,324 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:00,185 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:01,325 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:03,326 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:05,270 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:05,275 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:55:05,276 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:55:05,276 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:55:05,277 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:55:05,326 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:55:05,326 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:07,327 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:09,327 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:10,694 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:13,328 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:13,669 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:55:13,670 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:55:15,783 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:17,329 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:20,802 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:23,332 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:25,332 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:25,807 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:27,333 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:28,629 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:55:28,669 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:55:28,670 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:55:29,334 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:30,853 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:31,334 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:33,215 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:55:33,217 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:55:33,218 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:55:33,218 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:55:33,335 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:55:33,335 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:35,335 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:36,432 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:37,336 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:41,337 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:41,604 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:43,669 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:55:43,670 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:55:45,338 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:46,792 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:49,340 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:51,340 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:51,841 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:53,341 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:55,342 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:56,878 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:55:57,342 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:55:58,629 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:55:58,670 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: stop_status
+2023-03-23 22:55:58,670 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: stop_status
+2023-03-23 22:55:59,343 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:56:00,923 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: partial_history
+2023-03-23 22:56:00,924 DEBUG   SenderThread:1539 [sender.py:send():336] send: history
+2023-03-23 22:56:00,924 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: summary_record
+2023-03-23 22:56:00,924 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:56:01,344 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:56:01,344 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:56:01,925 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:56:03,344 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:56:05,345 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:56:06,025 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: pause
+2023-03-23 22:56:06,025 INFO    HandlerThread:1539 [handler.py:handle_request_pause():716] stopping system metrics thread or process
+2023-03-23 22:56:06,025 INFO    HandlerThread:1539 [system_monitor.py:finish():193] Stopping system monitor
+2023-03-23 22:56:06,027 DEBUG   SystemMonitor:1539 [system_monitor.py:_start():168] Finished system metrics aggregation loop
+2023-03-23 22:56:06,027 INFO    HandlerThread:1539 [interfaces.py:finish():199] Joined cpu monitor
+2023-03-23 22:56:06,027 DEBUG   SystemMonitor:1539 [system_monitor.py:_start():172] Publishing last batch of metrics
+2023-03-23 22:56:06,027 INFO    HandlerThread:1539 [interfaces.py:finish():199] Joined disk monitor
+2023-03-23 22:56:06,034 INFO    HandlerThread:1539 [interfaces.py:finish():199] Joined gpu monitor
+2023-03-23 22:56:06,034 INFO    HandlerThread:1539 [interfaces.py:finish():199] Joined memory monitor
+2023-03-23 22:56:06,034 INFO    HandlerThread:1539 [interfaces.py:finish():199] Joined network monitor
+2023-03-23 22:56:06,035 DEBUG   SenderThread:1539 [sender.py:send():336] send: stats
+2023-03-23 22:56:06,035 DEBUG   SenderThread:1539 [sender.py:send():336] send: exit
+2023-03-23 22:56:06,035 INFO    SenderThread:1539 [sender.py:send_exit():559] handling exit code: 0
+2023-03-23 22:56:06,035 INFO    SenderThread:1539 [sender.py:send_exit():561] handling runtime: 759
+2023-03-23 22:56:06,035 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:56:06,035 INFO    SenderThread:1539 [sender.py:send_exit():567] send defer
+2023-03-23 22:56:06,036 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,036 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 0
+2023-03-23 22:56:06,036 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,036 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 0
+2023-03-23 22:56:06,036 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 1
+2023-03-23 22:56:06,036 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,036 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 1
+2023-03-23 22:56:06,036 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,036 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 1
+2023-03-23 22:56:06,036 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 2
+2023-03-23 22:56:06,036 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,036 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 2
+2023-03-23 22:56:06,037 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,037 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 2
+2023-03-23 22:56:06,037 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 3
+2023-03-23 22:56:06,037 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,037 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 3
+2023-03-23 22:56:06,037 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,037 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 3
+2023-03-23 22:56:06,037 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 4
+2023-03-23 22:56:06,037 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,037 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 4
+2023-03-23 22:56:06,037 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,037 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 4
+2023-03-23 22:56:06,037 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 5
+2023-03-23 22:56:06,038 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,038 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 5
+2023-03-23 22:56:06,038 DEBUG   SenderThread:1539 [sender.py:send():336] send: summary
+2023-03-23 22:56:06,038 INFO    SenderThread:1539 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-03-23 22:56:06,038 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,038 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 5
+2023-03-23 22:56:06,038 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 6
+2023-03-23 22:56:06,038 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,039 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 6
+2023-03-23 22:56:06,039 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,039 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 6
+2023-03-23 22:56:06,039 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 7
+2023-03-23 22:56:06,039 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:56:06,039 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,039 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 7
+2023-03-23 22:56:06,039 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,039 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 7
+2023-03-23 22:56:06,345 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:56:06,632 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 8
+2023-03-23 22:56:06,632 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,632 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 8
+2023-03-23 22:56:06,632 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,632 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 8
+2023-03-23 22:56:06,633 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 9
+2023-03-23 22:56:06,633 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:06,633 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 9
+2023-03-23 22:56:06,633 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:06,633 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 9
+2023-03-23 22:56:06,633 INFO    SenderThread:1539 [dir_watcher.py:finish():365] shutting down directory watcher
+2023-03-23 22:56:07,033 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: poll_exit
+2023-03-23 22:56:07,346 INFO    Thread-13 :1539 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:56:07,346 INFO    SenderThread:1539 [dir_watcher.py:finish():395] scan: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files
+2023-03-23 22:56:07,346 INFO    SenderThread:1539 [dir_watcher.py:finish():409] scan save: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/config.yaml config.yaml
+2023-03-23 22:56:07,346 INFO    SenderThread:1539 [dir_watcher.py:finish():409] scan save: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json wandb-summary.json
+2023-03-23 22:56:07,349 INFO    SenderThread:1539 [dir_watcher.py:finish():409] scan save: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/requirements.txt requirements.txt
+2023-03-23 22:56:07,351 INFO    SenderThread:1539 [dir_watcher.py:finish():409] scan save: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/conda-environment.yaml conda-environment.yaml
+2023-03-23 22:56:07,354 INFO    SenderThread:1539 [dir_watcher.py:finish():409] scan save: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-metadata.json wandb-metadata.json
+2023-03-23 22:56:07,354 INFO    SenderThread:1539 [dir_watcher.py:finish():409] scan save: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log output.log
+2023-03-23 22:56:07,357 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 10
+2023-03-23 22:56:07,357 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: poll_exit
+2023-03-23 22:56:07,357 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:07,360 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 10
+2023-03-23 22:56:07,360 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:07,360 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 10
+2023-03-23 22:56:07,360 INFO    SenderThread:1539 [file_pusher.py:finish():164] shutting down file pusher
+2023-03-23 22:56:07,561 ERROR   wandb-upload_4:1539 [internal_api.py:upload_file():2073] upload_file exception https://storage.googleapis.com/wandb-production.appspot.com/generative-models-cern/Generative%20Models%20for%20CERN%20Fast%20Simulations/evxljmby/output.log?Expires=1679698567&GoogleAccessId=wandb-production%40appspot.gserviceaccount.com&Signature=q2ADiIk3pUXkMXdO0q4%2BEw01kewpalM80x%2BNYsh%2Bj9FoLCJrRgAZDdchAYDFFiF%2FkPlIkv9RkOR0az7XaQOB5ROhCamet%2Fz4ad7ErjTPO3iWIQFP0aLEAR7COQyZ7AoafDBXtvam%2F3zvqeVfkFynaZ1XApfLYibg%2BFpUpGJPMu9teiJE64XAcjsVKeU%2BNRRIR5bH56Nvkqz%2FEBxl1Vl34HqOk3B%2BKUt0FDzzPTAH%2B7q1ZWHZn%2FDau%2FDnZH9opzigV51k6Y4HRAOpQWLWeP%2BXoNAZ8ejH3MWILa4%2Bb%2BCUbvnkrFVLEb04X37Kw6fLJ8EsOcP1bQDGdy%2BnKGfbWd12og%3D%3D: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2023-03-23 22:56:07,562 ERROR   wandb-upload_4:1539 [internal_api.py:upload_file():2075] upload_file request headers: {'User-Agent': 'python-requests/2.28.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '14830'}
+2023-03-23 22:56:07,562 ERROR   wandb-upload_4:1539 [internal_api.py:upload_file():2077] upload_file response body: 
+2023-03-23 22:56:07,994 INFO    wandb-upload_1:1539 [upload_job.py:push():138] Uploaded file /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/wandb-summary.json
+2023-03-23 22:56:08,000 INFO    wandb-upload_0:1539 [upload_job.py:push():138] Uploaded file /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/config.yaml
+2023-03-23 22:56:08,034 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: poll_exit
+2023-03-23 22:56:08,034 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: poll_exit
+2023-03-23 22:56:08,068 INFO    wandb-upload_2:1539 [upload_job.py:push():138] Uploaded file /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/requirements.txt
+2023-03-23 22:56:08,159 INFO    wandb-upload_3:1539 [upload_job.py:push():138] Uploaded file /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/conda-environment.yaml
+2023-03-23 22:56:08,979 INFO    wandb-upload_4:1539 [upload_job.py:push():138] Uploaded file /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/files/output.log
+2023-03-23 22:56:09,035 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: poll_exit
+2023-03-23 22:56:09,036 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: poll_exit
+2023-03-23 22:56:09,179 INFO    Thread-12 :1539 [sender.py:transition_state():587] send defer: 11
+2023-03-23 22:56:09,179 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:09,180 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 11
+2023-03-23 22:56:09,180 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:09,180 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 11
+2023-03-23 22:56:09,180 INFO    SenderThread:1539 [file_pusher.py:join():169] waiting for file pusher
+2023-03-23 22:56:09,180 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 12
+2023-03-23 22:56:09,180 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:09,180 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 12
+2023-03-23 22:56:09,180 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:09,180 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 12
+2023-03-23 22:56:09,417 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 13
+2023-03-23 22:56:09,417 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:09,417 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 13
+2023-03-23 22:56:09,417 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:09,417 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 13
+2023-03-23 22:56:09,418 INFO    SenderThread:1539 [sender.py:transition_state():587] send defer: 14
+2023-03-23 22:56:09,418 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: defer
+2023-03-23 22:56:09,418 INFO    HandlerThread:1539 [handler.py:handle_request_defer():170] handle defer: 14
+2023-03-23 22:56:09,418 DEBUG   SenderThread:1539 [sender.py:send():336] send: final
+2023-03-23 22:56:09,418 DEBUG   SenderThread:1539 [sender.py:send():336] send: footer
+2023-03-23 22:56:09,418 DEBUG   SenderThread:1539 [sender.py:send_request():363] send_request: defer
+2023-03-23 22:56:09,418 INFO    SenderThread:1539 [sender.py:send_request_defer():583] handle sender defer: 14
+2023-03-23 22:56:12,419 DEBUG   HandlerThread:1539 [handler.py:handle_request():144] handle_request: status_report
+2023-03-23 22:56:15,388 WARNING StreamThr :1539 [internal.py:is_dead():415] Internal process exiting, parent pid 1494 disappeared
+2023-03-23 22:56:15,389 ERROR   StreamThr :1539 [internal.py:wandb_internal():153] Internal process shutdown.
+2023-03-23 22:56:15,419 INFO    SenderThread:1539 [sender.py:finish():1504] shutting down sender
+2023-03-23 22:56:15,419 INFO    SenderThread:1539 [file_pusher.py:finish():164] shutting down file pusher
+2023-03-23 22:56:15,419 INFO    SenderThread:1539 [file_pusher.py:join():169] waiting for file pusher
+2023-03-23 22:56:15,419 INFO    WriterThread:1539 [datastore.py:close():298] close: /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/vae_proton_15_2312/wandb/run-20230323_224325-evxljmby/run-evxljmby.wandb
+2023-03-23 22:56:15,419 INFO    HandlerThread:1539 [handler.py:finish():842] shutting down handler

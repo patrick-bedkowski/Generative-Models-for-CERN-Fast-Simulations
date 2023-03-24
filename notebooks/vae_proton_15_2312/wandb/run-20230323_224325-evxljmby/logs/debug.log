@@ -38,3 +38,5 @@ config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'PROTON DATA',
 2023-03-23 22:43:28,601 INFO    MainThread:1494 [jupyter.py:save_ipynb():373] not saving jupyter notebook
 2023-03-23 22:43:28,601 INFO    MainThread:1494 [wandb_init.py:_pause_backend():417] pausing backend
 2023-03-23 22:43:28,607 INFO    MainThread:1494 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-23 22:56:06,024 INFO    MainThread:1494 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-23 22:56:06,024 INFO    MainThread:1494 [wandb_init.py:_pause_backend():417] pausing backend
