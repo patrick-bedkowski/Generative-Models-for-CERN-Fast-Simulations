@@ -1,0 +1,13 @@
+
+100 [Total loss: 56.18] [Recon_loss: 52.83] [KL loss: 4.79]
+200 [Total loss: 34.63] [Recon_loss: 32.79] [KL loss: 2.64]
+300 [Total loss: 46.22] [Recon_loss: 44.11] [KL loss: 3.01]
+
+305/305 [==============================] - 2s 4ms/step
+ws mean 41.96 ch1 0.02 ch2 8.09 ch3 0.36 ch4 96.58 ch5 104.73 Time for epoch 1 is 23.575462341308594 sec
+400 [Total loss: 42.84] [Recon_loss: 41.05] [KL loss: 2.56]
+500 [Total loss: 40.63] [Recon_loss: 38.66] [KL loss: 2.83]
+600 [Total loss: 45.14] [Recon_loss: 42.88] [KL loss: 3.24]
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 39.08 ch1 0.02 ch2 6.84 ch3 0.32 ch4 90.81 ch5 97.40 Time for epoch 2 is 17.376017093658447 sec

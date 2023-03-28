@@ -1,7 +1,1 @@
-notebooks_ZDC_fast_sim/
-data/
-others/
-.idea/
-models/
-images/
-__pycache__/
+notebooks/vae_proton_15_2312/wandb/

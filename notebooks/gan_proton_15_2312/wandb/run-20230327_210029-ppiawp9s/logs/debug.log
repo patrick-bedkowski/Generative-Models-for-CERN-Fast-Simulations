@@ -1,0 +1,45 @@
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_setup.py:_flush():76] Configure stats pid to 9368
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_setup.py:_flush():76] Loading settings from /home/studio-lab-user/.config/wandb/settings
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_setup.py:_flush():76] Loading settings from /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/gan_proton_15_2312/wandb/settings
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_init.py:_log_setup():506] Logging user logs to /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/gan_proton_15_2312/wandb/run-20230327_210029-ppiawp9s/logs/debug.log
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_init.py:_log_setup():507] Logging internal logs to /home/studio-lab-user/Generative_Models_for_CERN_Fast_Simulations/notebooks/gan_proton_15_2312/wandb/run-20230327_210029-ppiawp9s/logs/debug-internal.log
+2023-03-27 21:00:29,233 INFO    MainThread:9368 [wandb_init.py:_jupyter_setup():452] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f260c8fa9a0>
+2023-03-27 21:00:29,234 INFO    MainThread:9368 [wandb_init.py:init():546] calling init triggers
+2023-03-27 21:00:29,234 INFO    MainThread:9368 [wandb_init.py:init():552] wandb.init called with sweep_config: {}
+config: {'Model': 'gan', 'dataset': 'proton_data', 'epochs': 200, 'Date': '27_03_2023_21_00', 'Proton_min': 15.0, 'Proton_max': 2133.0, 'Experiment_dir_name': 'experiments/gan_15_2133_27_03_2023_21_00'}
+2023-03-27 21:00:29,234 INFO    MainThread:9368 [wandb_init.py:init():602] starting backend
+2023-03-27 21:00:29,234 INFO    MainThread:9368 [wandb_init.py:init():606] setting up manager
+2023-03-27 21:00:29,237 INFO    MainThread:9368 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-03-27 21:00:29,238 INFO    MainThread:9368 [wandb_init.py:init():613] backend started and connected
+2023-03-27 21:00:29,255 INFO    MainThread:9368 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2023-03-27 21:00:29,256 INFO    MainThread:9368 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-03-27 21:00:29,256 INFO    MainThread:9368 [wandb_init.py:init():701] updated telemetry
+2023-03-27 21:00:29,364 INFO    MainThread:9368 [wandb_init.py:init():741] communicating run to backend with 60.0 second timeout
+2023-03-27 21:00:29,663 INFO    MainThread:9368 [wandb_run.py:_on_init():2133] communicating current version
+2023-03-27 21:00:29,751 INFO    MainThread:9368 [wandb_run.py:_on_init():2142] got version response 
+2023-03-27 21:00:29,751 INFO    MainThread:9368 [wandb_init.py:init():789] starting run threads in backend
+2023-03-27 21:00:32,073 INFO    MainThread:9368 [wandb_run.py:_console_start():2114] atexit reg
+2023-03-27 21:00:32,073 INFO    MainThread:9368 [wandb_run.py:_redirect():1969] redirect: SettingsConsole.WRAP_RAW
+2023-03-27 21:00:32,074 INFO    MainThread:9368 [wandb_run.py:_redirect():2034] Wrapping output streams.
+2023-03-27 21:00:32,074 INFO    MainThread:9368 [wandb_run.py:_redirect():2059] Redirects installed.
+2023-03-27 21:00:32,074 INFO    MainThread:9368 [wandb_init.py:init():831] run started, returning control to user process
+2023-03-27 21:00:32,078 INFO    MainThread:9368 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-27 21:00:32,079 INFO    MainThread:9368 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-27 21:00:32,087 INFO    MainThread:9368 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-27 21:00:33,273 INFO    MainThread:9368 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-27 21:00:33,273 INFO    MainThread:9368 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-27 21:00:33,280 INFO    MainThread:9368 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-27 21:00:33,284 INFO    MainThread:9368 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-27 21:00:33,284 INFO    MainThread:9368 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-27 21:00:33,309 INFO    MainThread:9368 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-27 21:00:33,312 INFO    MainThread:9368 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-27 21:00:33,312 INFO    MainThread:9368 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-27 21:00:33,322 INFO    MainThread:9368 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-27 21:00:33,324 INFO    MainThread:9368 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-27 21:00:33,324 INFO    MainThread:9368 [wandb_init.py:_pause_backend():417] pausing backend
+2023-03-27 21:00:33,329 INFO    MainThread:9368 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-27 21:24:40,527 INFO    MainThread:9368 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-27 21:24:40,527 INFO    MainThread:9368 [wandb_init.py:_pause_backend():417] pausing backend
