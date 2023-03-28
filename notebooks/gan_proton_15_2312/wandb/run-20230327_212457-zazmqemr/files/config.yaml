@@ -1,0 +1,55 @@
+wandb_version: 1
+
+Date:
+  desc: null
+  value: '27_03_2023_21_24'
+Experiment_dir_name:
+  desc: null
+  value: experiments/gan_15_2133_27_03_2023_21_24
+Model:
+  desc: null
+  value: gan
+Proton_max:
+  desc: null
+  value: 2133.0
+Proton_min:
+  desc: null
+  value: 15.0
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.14.0
+    framework: keras
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    python_version: 3.9.13
+    start_time: 1679952297.305935
+    t:
+      1:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      2:
+      - 2
+      - 3
+      - 5
+      - 53
+      - 55
+      3:
+      - 13
+      - 15
+      - 16
+      - 23
+      4: 3.9.13
+      5: 0.14.0
+      8:
+      - 1
+      - 5
+dataset:
+  desc: null
+  value: proton_data
+epochs:
+  desc: null
+  value: 200

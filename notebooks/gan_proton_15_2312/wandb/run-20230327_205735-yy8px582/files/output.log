@@ -1,0 +1,7 @@
+
+100 [D real acc: 75.84%] [D fake acc: 32.45%] [G acc: 67.55%]
+200 [D real acc: 77.33%] [D fake acc: 37.47%] [G acc: 62.53%]
+300 [D real acc: 77.31%] [D fake acc: 41.53%] [G acc: 58.47%]
+
+305/305 [==============================] - 1s 4ms/step
+ws mean 24.92 ch1 0.07 ch2 21.00 ch3 0.17 ch4 48.02 ch5 55.37
