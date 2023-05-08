@@ -41,3 +41,5 @@ config: {'Model': 'gan', 'dataset': 'proton_data', 'epochs': 200, 'Date': '28_03
 2023-03-28 08:40:35,563 INFO    MainThread:610 [jupyter.py:save_ipynb():373] not saving jupyter notebook
 2023-03-28 08:40:35,563 INFO    MainThread:610 [wandb_init.py:_pause_backend():417] pausing backend
 2023-03-28 08:40:35,579 INFO    MainThread:610 [wandb_init.py:_resume_backend():422] resuming backend
+2023-03-28 10:46:56,769 INFO    MainThread:610 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-03-28 10:46:56,769 INFO    MainThread:610 [wandb_init.py:_pause_backend():417] pausing backend
