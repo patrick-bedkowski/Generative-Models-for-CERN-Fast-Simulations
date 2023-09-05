@@ -1,1 +1,9 @@
 notebooks/vae_proton_15_2312/wandb/
+data/
+experiments/
+images/
+imgs/
+models/
+others/
+wandb/
+.ipynb-checkpoints/
