@@ -1,1 +1,0 @@
-{"ws_mean": 52.28317774772938, "epoch": 0, "_timestamp": 1679911154.7412937, "_runtime": 2824.7699797153473, "_step": 69, "plot": {"_type": "image-file", "sha256": "6a1e11b06a99d086fd017a0bb5acde0300b43c8c486bc27b4012d241ed40203b", "size": 70733, "path": "media/images/plot_69_6a1e11b06a99d086fd01.png", "format": "png", "width": 1500, "height": 500}, "_wandb": {"runtime": 2611}}
