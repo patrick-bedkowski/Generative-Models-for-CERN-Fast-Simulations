@@ -10,8 +10,8 @@ others/
 .idea/
 **/.ipynb_checkpoints/
 **/.DS_Store
-notebooks_ZDC_fast_sim/
 *.pyc
 *.h5
 *.pkl
 images/
+/notebooks/2-outputs/
