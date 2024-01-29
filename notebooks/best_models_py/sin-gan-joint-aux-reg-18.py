@@ -205,7 +205,7 @@ for _ in range(0, 3):
 
     from tensorflow import keras
 
-    latent_dim = 6
+    latent_dim = 10
     cond_dim = 9
 
     ############################ generator ############################

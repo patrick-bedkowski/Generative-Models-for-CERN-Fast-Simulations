@@ -15,3 +15,6 @@ others/
 *.pkl
 images/
 /notebooks/2-outputs/
+notebooks/gan_proton_15_2312/
+notebooks/vae_proton_15_2312/
+notebooks/vae_proton_70_2312/
