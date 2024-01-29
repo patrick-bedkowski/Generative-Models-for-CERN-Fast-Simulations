@@ -13,3 +13,6 @@ Use <a href="notebooks/data_filtering.ipynb">data_filtering.ipynb</a> to produce
 ## Models
 
 Description will be published, after I'll defend my thesis.
+
+Results of tests on trained models are in logs in directory `notebooks/calculating results logs/`.
+
