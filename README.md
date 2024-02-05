@@ -10,6 +10,9 @@
    1. [Python files](#python-files)
    2. [Configure WandB tool for training models](#configure-wandb-tool-for-training-models)
    3. [Run experiments](#run-experiments)
+4. [Analysis of results](#analysis-of-results)
+   1. [Files of trained models](#files-of-trained-models)
+   2. [Results of evaluating models](#results-of-evaluating-models)
 
 ## Setting Developing Environment
 
@@ -125,7 +128,13 @@ python3 vae-proton-1.py
 
 During the process of training the models, they are compiled and saved in [.h5](https://www.tensorflow.org/tutorials/keras/save_and_load) files during training.
 
-
 ## Analysis of results
 
-Results of tests on trained models are in logs in directory `notebooks/calculating results logs/`.
+In the following section it is described how to reproduce the results of analysis presented in thesis in Section 9. and 10.
+
+### Files of trained models
+
+Presented in Thesis trained models are available as `.h5` files in directory: `best models/`. The below sections use this files to produce plots, calculate WS metrics and number of empty responses.
+
+### Results of evaluating models
+Results of tests on trained models are in logs in directory `notebooks/calculating results logs/`. They are consistent with the results in thesis.
