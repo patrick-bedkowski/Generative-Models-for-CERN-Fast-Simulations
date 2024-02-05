@@ -7,8 +7,9 @@
     1. [Original files](#original-files)
     2. [Data filtering](#data-filtering)
 3. [Python scripts for training models](#python-scripts-for-training-models)
-   1. [Configure WandB tool for training models](#configure-wandb-tool-for-training-models)
-   2. [Run experiments](#run-experiments)
+   1. [Python files](#python-files)
+   2. [Configure WandB tool for training models](#configure-wandb-tool-for-training-models)
+   3. [Run experiments](#run-experiments)
 
 ## Setting Developing Environment
 
@@ -77,6 +78,8 @@ After completing the steps you should have the following files:
 
 ## Python scripts for training models
 
+### Python files
+
 The directory `notebooks/best_models_py/` contains python `.py` files of models that were described in the thesis. There are files:
 - vae-proton-X.py: Variational Autoencoder for proton ZDC
 - gan-proton-X.py: Generative Adversarial Network for proton ZDC
@@ -117,6 +120,11 @@ Linux:
 ```python
 python3 vae-proton-1.py
 ```
+
+### Saving of the trained models
+
+During the process of training the models, they are compiled and saved in [.h5](https://www.tensorflow.org/tutorials/keras/save_and_load) files during training.
+
 
 ## Analysis of results
 
