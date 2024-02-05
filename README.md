@@ -7,6 +7,8 @@
     1. [Original files](#original-files)
     2. [Data filtering](#data-filtering)
 3. [Python scripts for training models](#python-scripts-for-training-models)
+   1. [Configure WandB tool for training models](#configure-wandb-tool-for-training-models)
+   2. [Run experiments](#run-experiments)
 
 ## Setting Developing Environment
 
@@ -78,10 +80,12 @@ After completing the steps you should have the following files:
 The directory `notebooks/best_models_py/` contains python `.py` files of models that were described in the thesis. There are files:
 - vae-proton-X.py: Variational Autoencoder for proton ZDC
 - gan-proton-X.py: Generative Adversarial Network for proton ZDC
-- sdi-gan-proton-X.py: SDI-GAN Generative Adversarial Network described in [paper](https://arxiv.org/pdf/2207.01561.pdf)  for proton ZDC
+- sdi-gan-proton-X.py: SDI-GAN Generative Adversarial Network described in [paper](https://arxiv.org/pdf/2207.01561.pdf) for proton ZDC
 - sin-gan-proton-X.py: SDI-GAN expanded by intensity regularization for proton ZDC explained in Section 8 of thesis
 - sin-gan-proton-aux-reg-X.py: SDI-GAN expanded by intensity regularization with auxiliary regressor for proton ZDC
 - sin-gan-joint-aux-reg-X.py: SDI-GAN expanded by intensity regularization with auxiliary regressor for joint model
+
+Where X denotes the minimal value for the photon sum value in proton dataset or both proton and neutron data for the joint model.
 
 It also contains `utils.py` containing necessary functions:
 - `get_chanel_masks()`: returns 5 masks described in Figure 6.2 in thesis,
@@ -89,7 +93,31 @@ It also contains `utils.py` containing necessary functions:
 - `get_max_value_image_coordinates()`: returns coordiantes of the maximal value in the image (used by auxiliary regressor)
 - `calculate_ws_ch_proton_model()`: calculates WS metric for data coming from the proton channel
 
+### Configure WandB tool for training models
 
+Prior to executing training of models, I recommend configuring the [WandB](https://docs.wandb.ai/) tool for monitoring of training models. To do that, follow the steps:
+1. Create WandB account
+2. Generate API KEY for logging training [api_key](https://wandb.ai/authorize). Copy it.
+3. Paste the generated API key at the beginning of each `python` file described in section [Python scripts for training models](#python-scripts-for-training-models).
+
+After the following script of training is executed, you should be able to see the progress of results in the WandB online tool.
+
+To get to know the tool better, refer to [quickstart page](https://docs.wandb.ai/quickstart).
+
+### Run experiments
+
+In order to run the training of models described in section [Python scripts for training models](#python-scripts-for-training-models), run the following command: <br/>
+
+Windows:
+```python
+python vae-proton-1.py
+```
+
+Linux:
+```python
+python3 vae-proton-1.py
+```
+
+## Analysis of results
 
 Results of tests on trained models are in logs in directory `notebooks/calculating results logs/`.
-
